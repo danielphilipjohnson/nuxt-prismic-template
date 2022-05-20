@@ -1,0 +1,1 @@
+# nuxt-prismic-template
